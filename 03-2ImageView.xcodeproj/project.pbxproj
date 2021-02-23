@@ -13,6 +13,8 @@
 		188D990E25E523950070F4D5 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 188D990C25E523950070F4D5 /* Main.storyboard */; };
 		188D991025E523A00070F4D5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 188D990F25E523A00070F4D5 /* Assets.xcassets */; };
 		188D991325E523A00070F4D5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 188D991125E523A00070F4D5 /* LaunchScreen.storyboard */; };
+		188D991D25E526C50070F4D5 /* lamp_off.png in Resources */ = {isa = PBXBuildFile; fileRef = 188D991B25E526C50070F4D5 /* lamp_off.png */; };
+		188D991E25E526C50070F4D5 /* lamp_on.png in Resources */ = {isa = PBXBuildFile; fileRef = 188D991C25E526C50070F4D5 /* lamp_on.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		188D990F25E523A00070F4D5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		188D991225E523A00070F4D5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		188D991425E523A00070F4D5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		188D991B25E526C50070F4D5 /* lamp_off.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = lamp_off.png; sourceTree = "<group>"; };
+		188D991C25E526C50070F4D5 /* lamp_on.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = lamp_on.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +64,8 @@
 				188D990825E523950070F4D5 /* SceneDelegate.swift */,
 				188D990A25E523950070F4D5 /* ViewController.swift */,
 				188D990C25E523950070F4D5 /* Main.storyboard */,
+				188D991B25E526C50070F4D5 /* lamp_off.png */,
+				188D991C25E526C50070F4D5 /* lamp_on.png */,
 				188D990F25E523A00070F4D5 /* Assets.xcassets */,
 				188D991125E523A00070F4D5 /* LaunchScreen.storyboard */,
 				188D991425E523A00070F4D5 /* Info.plist */,
@@ -126,7 +132,9 @@
 			files = (
 				188D991325E523A00070F4D5 /* LaunchScreen.storyboard in Resources */,
 				188D991025E523A00070F4D5 /* Assets.xcassets in Resources */,
+				188D991E25E526C50070F4D5 /* lamp_on.png in Resources */,
 				188D990E25E523950070F4D5 /* Main.storyboard in Resources */,
+				188D991D25E526C50070F4D5 /* lamp_off.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
